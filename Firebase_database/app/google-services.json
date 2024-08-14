@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310043969983",
+    "project_id": "fir-database-by-somya",
+    "storage_bucket": "fir-database-by-somya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310043969983:android:8ac2ea40e5c9701fc6790a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoCnkTlTPFbUmyiJ5D3oxnGqBeROWf0cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
